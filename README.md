@@ -31,7 +31,7 @@ n=int(input())
 ``````
 
 ## Output:
-![Alt text](<circulate n variable-1.png>)
+![Alt text](<circulate n variable-2.png>)
 
 ## Result:
 the expected result is achieved successfully
